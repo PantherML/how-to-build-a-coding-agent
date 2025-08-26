@@ -111,7 +111,7 @@ go run chat.go --verbose  # Enable detailed logging
 - Tool definition and schema generation
 - Tool execution and result handling
 
-**Key Learning**: How to implement and register tools, handle tool calls from Claude.
+**Key Learning**: How to implement and register tools, then handle tool calls from Claude.
 
 **Usage**:
 ```bash
@@ -435,7 +435,7 @@ After completing this workshop, consider exploring:
 
 - Adding more specialized tools (web scraping, API calls, etc.)
 - Implementing tool chaining and workflows
-- Adding persistent memory and state management
+- Adding persistent memory & state management
 - Building web interfaces for your agents
 - Integrating with other AI models and services
 
